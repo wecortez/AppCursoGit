@@ -1,4 +1,4 @@
-primer comit Modificacion de cambios con ramas desde rama principal
+primer comit GitHub v GitLab
 segundo comit
 tercer commit
 proyecto listo para crear rama apartir de este punto
