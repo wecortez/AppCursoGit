@@ -2,3 +2,7 @@ primer comit Modificacion de cambios con ramas desde rama principal
 segundo comit
 tercer commit
 proyecto listo para crear rama apartir de este punto
+Trabajando en otra rama appBar
+Se continua el trabajo desde appBar
+Se continua el trabajo creacion de cajas de texto usuario y contraseña
+Se agrega un titulo a Login
