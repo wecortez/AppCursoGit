@@ -1,4 +1,4 @@
-primer comit
+primer comit Modificacion de cambios con ramas desde rama principal
 segundo comit
 tercer commit
 proyecto listo para crear rama apartir de este punto
