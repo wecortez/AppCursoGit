@@ -7,3 +7,5 @@ Se continua el trabajo desde appBar
 Se continua el trabajo creacion de cajas de texto usuario y contraseña
 Se agrega un titulo a Login
 Se cambia el logo y el nombre del Login
+
+Se realizan los cambios desde Github
