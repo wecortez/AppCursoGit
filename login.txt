@@ -11,5 +11,5 @@ Se cambia el logo y el nombre del Login
 Se realizan los cambios desde Github
 
 ----------------------------------------------------------
-Trabajando por conexion SSH
+Trabajando desde GITHUB desde SSH
 CORRECTO
