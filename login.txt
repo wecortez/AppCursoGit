@@ -1,4 +1,4 @@
-primer comit GitHub v GitLab
+﻿primer comit GitHub v GitLab
 segundo comit
 tercer commit
 proyecto listo para crear rama apartir de este punto
@@ -9,3 +9,6 @@ Se agrega un titulo a Login
 Se cambia el logo y el nombre del Login
 
 Se realizan los cambios desde Github
+
+----------------------------------------------------------
+Trabajando por conexion SSH
