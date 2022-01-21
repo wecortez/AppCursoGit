@@ -13,3 +13,5 @@ Se realizan los cambios desde Github
 ----------------------------------------------------------
 Trabajando desde GITHUB desde SSH
 CORRECTO
+---------------------------------------------------------
+DISEÑO DE LOGIN DESDE RAMA DISEÑO COMPLETO
