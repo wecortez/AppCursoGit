@@ -8,8 +8,8 @@ Se continua el trabajo creacion de cajas de texto usuario y contraseña
 Se agrega un titulo a Login
 Se cambia el logo y el nombre del Login
 
-Se  los cambios desde Github
+Se realizan los cambios desde Github
 
 ----------------------------------------------------------
-Trabajando desde GITHUB  SSH
+Trabajando desde GITHUB desde SSH
 CORRECTO
